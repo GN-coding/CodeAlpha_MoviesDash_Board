@@ -26,4 +26,8 @@ A web dashboard for movie analytics, displaying various insights and data visual
 
 ![Screenshot](https://github.com/GN-coding/CodeAlpha_MoviesDash_Board/assets/159869920/878004b1-58b5-485c-a1f0-6fa35bd023c7.png)
 
+## Live Demo
+
+Check out the live demo [here](https://moviesdashboard.netlify.app).
+
 
